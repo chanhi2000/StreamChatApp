@@ -1,2 +1,4 @@
+
+include(":app")
 rootProject.name = "StreamChatApp"
-include ':app'
+
